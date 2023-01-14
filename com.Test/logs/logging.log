@@ -1,0 +1,4 @@
+2022-12-05 23:56:22 INFO  Log4jPropertyConfig:16 - This is Info logger
+2022-12-05 23:56:22 WARN  Log4jPropertyConfig:17 - This is Warn logger
+2022-12-05 23:56:22 ERROR Log4jPropertyConfig:18 - This is Error logger
+2022-12-05 23:56:22 FATAL Log4jPropertyConfig:19 - This is fatal logger
